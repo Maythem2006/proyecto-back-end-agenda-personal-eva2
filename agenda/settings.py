@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-(kkh47*e)oe-k)pwwnn1mtvnvz@bo*%qme3zxp)&+8s^u*4@6r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['proyecto-back-end-agenda-personal-eva2-production.up.railway.app/']
+ALLOWED_HOSTS = ["proyecto-back-end-agenda-personal-eva2-production.up.railway.app/"]
 
 
 # Application definition
